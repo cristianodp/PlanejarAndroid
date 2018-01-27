@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "123002166362",
+    "firebase_url": "https://planejar-9fc00.firebaseio.com",
+    "project_id": "planejar-9fc00",
+    "storage_bucket": "planejar-9fc00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123002166362:android:c4f1fc2ad68dc316",
+        "android_client_info": {
+          "package_name": "com.dinizdesenvolve.planejar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123002166362-qvhhctgn2g8sgutiqj1baf3fd5bg03jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3XmIsc_gvzIx2xmn-w3oEM6N-eTd5gWc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

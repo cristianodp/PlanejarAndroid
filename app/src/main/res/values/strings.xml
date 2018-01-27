@@ -1,0 +1,64 @@
+<resources>
+
+    /* general informations */
+    <string name="app_name">Planejar</string>
+    <string name="app_full_name">Planejar para O SUCESSO!</string>
+    <string name="app_name_1">Planejar para</string>
+    <string name="app_name_2">O SUCESSO!</string>
+
+    /* login */
+    <string name="login_email">E-mail</string>
+    <string name="login_passwd">Senha</string>
+    <string name="login_btn_login">Entrar</string>
+    <string name="login_btn_sign_up">Cadastre-se</string>
+    <string name="login_btn_forgot_passwd">Esqueci minha senha</string>
+    <string name="login_btn_google">Conecte-se com o Google</string>
+    <string name="login_btn_singin">Cadastrar-se</string>
+    <string name="login_or">ou</string>
+    <string name="login_invalid_login">Usuário %s ou senha inválidos</string>
+
+    /* firebase UI */
+    <!-- Auth method picker -->
+    <string name="fui_sign_in_with_google" translation_description="Sign in button text">Entrar usando Google</string>
+    <string name="fui_sign_in_with_facebook" translation_description="Sign in button text">Sign in with Facebook</string>
+    <string name="fui_sign_in_with_twitter" translation_description="Sign in button text">Sign in with Twitter</string>
+    <string name="fui_sign_in_with_email" translation_description="Sign in button text">Entrar usando E-mail</string>
+    <string name="fui_sign_in_with_phone" translation_description="Sign in button text">Sign in with phone</string>
+
+
+    /* Create User */
+    <string name="create_user_title">Cadastre-se</string>
+    <string name="create_user_email">E-mail</string>
+    <string name="create_user_passwd">Senha</string>
+    <string name="create_user_repasswd">Repetir senha</string>
+    <string name="create_user_btn_create">Cadastrar</string>
+
+    /* Dashboard */
+    <string name="dashboard_saved">Acumulado</string>
+    <string name="dashboard_incomes">Receitas</string>
+    <string name="dashboard_expenses">Despesas</string>
+    <string name="dashboard_balance">Saldo</string>
+    <string name="dashboard_default_value">R$ 0,00</string>
+
+    /*Create New Moviment*/
+    <string name="create_moviment_title">Incluir Lancamento</string>
+    <string name="create_moviment_expence">Despesa</string>
+    <string name="create_moviment_receiver">Rendimento</string>
+    <string name="create_moviment_description">Descrição do lançamento</string>
+    <string name="create_moviment_value">Valor do lançamento</string>
+    <string name="create_moviment_vecto">Data de Vencimento</string>
+    <string name="create_moviment_canc">Cancelar</string>
+    <string name="create_moviment_ok">Confirmar</string>
+
+
+    /* Main Menu */
+    <string name="main_menu_sign_out">Sair</string>
+
+
+    /*test*/
+    <string name="content">The flexible space shrinks until only the toolbar remains. The title shrinks to 20sp in the navigation bar. When scrolling to the top of the page, the flexible space and the title grow into place again.The flexible space shrinks until only the toolbar remains. The title shrinks to 20sp in the navigation bar. When scrolling to the top of the page, the flexible space and the title grow into place again.The flexible space shrinks until only the toolbar remains. The title shrinks to 20sp in the navigation bar. When scrolling to the top of the page, the flexible space and the title grow into place again.The flexible space shrinks until only the toolbar remains. The title shrinks to 20sp in the navigation bar. When scrolling to the top of the page, the flexible space and the title grow into place again.The flexible space shrinks until only the toolbar remains. The title shrinks to 20sp in the navigation bar. When scrolling to the top of the page, the flexible space and the title grow into place again. The flexible space shrinks until only the toolbar remains. The title shrinks to 20sp in the navigation bar. When scrolling to the top of the page, the flexible space and the title grow into place again.The flexible space shrinks until only the toolbar remains. The title shrinks to 20sp in the navigation bar. When scrolling to the top of the page, the flexible space and the title grow into place again.The flexible space shrinks until only the toolbar remains. The title shrinks to 20sp in the navigation bar. When scrolling to the top of the page, the flexible space and the title grow into place again.The flexible space shrinks until only the toolbar remains. The title shrinks to 20sp in the navigation bar. When scrolling to the top of the page, the flexible space and the title grow into place again. The flexible space shrinks until only the toolbar remains. The title shrinks to 20sp in the navigation bar. When scrolling to the top of the page, the flexible space and the title grow into place again.The flexible space shrinks until only the toolbar remains. The title shrinks to 20sp in the navigation bar. When scrolling to the top of the page, the flexible space and the title grow into place again.The flexible space shrinks until only the toolbar remains. The title shrinks to 20sp in the navigation bar. When scrolling to the top of the page, the flexible space and the title grow into place again.The flexible space shrinks until only the toolbar remains. The title shrinks to 20sp in the navigation bar. When scrolling to the top of the page, the flexible space and the title grow into place again. The flexible space shrinks until only the toolbar remains. The title shrinks to 20sp in the navigation bar. When scrolling to the top of the page, the flexible space and the title grow into place again.The flexible space shrinks until only the toolbar remains. The title shrinks to 20sp in the navigation bar. When scrolling to the top of the page, the flexible space and the title grow into place again.The flexible space shrinks until only the toolbar remains. The title shrinks to 20sp in the navigation bar. When scrolling to the top of the page, the flexible space and the title grow into place again.</string>
+    <string name="todo">TODO</string>
+
+
+</resources>
+
